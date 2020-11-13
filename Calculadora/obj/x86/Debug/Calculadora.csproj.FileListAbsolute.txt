@@ -1,0 +1,52 @@
+C:\Users\HP\Desktop\Projeto\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\HP\Desktop\Projeto\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\HP\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\HP\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\HP\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\HP\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Aluno\Desktop\Projeto\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Projeto\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Aluno\Desktop\Projeto\Projeto\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Projeto\Projeto\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Aluno\Desktop\Projeto\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\Aluno\Desktop\Projeto\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Projeto (1)\Projeto\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Projeto (1)\Projeto\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Aluno\Desktop\Projeto (1)\Projeto\Projeto\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Projeto (1)\Projeto\Projeto\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Aluno\Desktop\Projeto (1)\Projeto\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\Aluno\Desktop\Projeto (1)\Projeto\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto (1)\Projeto\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Aluno\Desktop\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Aluno\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\Aluno\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Aluno\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\Aluno\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Projeto\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Projeto\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Aluno\Desktop\Projeto\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Temperatura.resources
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Velocidade.resources
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Acerca.resources
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Desktop\Projeto\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.ResolveComReference.cache
